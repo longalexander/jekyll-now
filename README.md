@@ -1,4 +1,4 @@
-# Alexander Long Edits
+# Long Letters
 
 This is the source code for the website: http://www.longletters.com
 

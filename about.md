@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I’m a student at Stanford University expected to graduate in June 2019 with a B.S. in Symbolic Systems.
 
-### More Information
+I love the feeling that clarity brings. I find it precious and beautiful. I like spending time helping others feel this too.
 
-A place to include any other types of information that you'd like to include about yourself.
+Time with family and friends is very precious to me. I also enjoy regularly reading The Daily Mail, struggling through problem sets and code, grappling with difficult concepts, writing clearly and listening to the stories of people I meet.
 
-### Contact me
+Please do get in touch, I’ve been told I’m friendly and I’m happy to help.
 
-[email@domain.com](mailto:email@domain.com)
+[alexanderlong@stanford.com](mailto:alexanderlong@stanford.edu)

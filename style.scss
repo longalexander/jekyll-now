@@ -280,15 +280,15 @@ nav {
   }
 
   .read-more {
-    text-transform: uppercase;
+    text-transform: lowercase;
     font-size: 15px;
   }
 }
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  /* border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd; */
   background-color: $white;
 }
 

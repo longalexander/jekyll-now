@@ -9,6 +9,13 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+@font-face {
+font-family: 'Interstate Regular Comp';
+font-style: normal;
+font-weight: normal;
+src: local('Interstate Regular Comp'), url('interstate-regular-comp-58b641cc0aca1.woff') format('woff');
+}
+
 /**************/
 /* BASE RULES */
 /**************/
@@ -31,9 +38,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $Interstate;
+  font-family: 'Interstate Regular Comp';
   color: $black;
-  font-weight: regular;
+  font-weight: normal;
 
   line-height: 1.7;
   margin: 1em 0 15px;

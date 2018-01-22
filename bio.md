@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Bio
+permalink: /bio/
 ---
 
 I’m a student at Stanford University expected to graduate in June 2019 with a B.S. in Symbolic Systems.

@@ -16,7 +16,7 @@ font-weight: normal;
 src: local('Interstate Regular Comp'), url('interstate/interstate-regular-comp-58b641cc0aca1.woff') format('woff');
 }
 
-@font-face {
+/*@font-face {
     font-family: 'Proxima Nova';
     src: url('proxima_nova/Mark Simonson - Proxima Nova Alt Regular-webfont.eot');
     src: url('proxima_nova/Mark Simonson - Proxima Nova Alt Regular-webfont.eot?#iefix') format('embedded-opentype'),
@@ -27,7 +27,7 @@ src: local('Interstate Regular Comp'), url('interstate/interstate-regular-comp-5
     font-weight: normal;
     font-style: normal;
 
-}
+} */
 
 /**************/
 /* BASE RULES */
@@ -40,11 +40,11 @@ html {
 body {
 	background: $white;
   /* font: 18px/1.4 'Interstate Regular Comp'; --> */
-  font-family: 'Proxima Nova';
+  font-family: 'Interstate Regular Comp';
   font-size: 18px/3;
   font-style: normal;
   color: $black;
-  letter-spacing: 1px;
+  letter-spacing: 1.2px;
 }
 
 .container {

@@ -3,8 +3,6 @@ layout: page
 title: Bio
 permalink: /bio/
 ---
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 I’m a student at Stanford University expected to graduate in June 2019 with a B.S. in Symbolic Systems.
 

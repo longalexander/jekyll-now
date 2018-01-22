@@ -3,7 +3,7 @@ layout: post
 title: Reasons why this website was created.
 ---
 
-**1) Reflection on experiences.**
+**1) Reflect on experiences.**
 An outlet for organizing my experiences into stories that are fun and educational.
 
 **2) Share my ideas.**

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reasons why this website was created.
+title: Reasons why this website exists.
 ---
 
 **1) Reflect on experiences.**
@@ -11,3 +11,5 @@ A collection of my thoughtfully written, honest ideas that others might enjoy.
 
 **3) Demonstrate clarity.**
 An opportunity for me to demonstrate and test my clarity of thought. 
+
+**4) I'm enjoying creating it.**

@@ -16,11 +16,13 @@ Alex
 
 [alexanderlong@stanford.com](mailto:alexanderlong@stanford.edu)
 
+
 **Long Letters**
 
 Long Letters is an online collection of my writing, past projects and bio. 
 
 In Januray 2018 I decided to publicise my work and opinions. For reasons, please click [here](http://www.longletters.com/Reasons-why-this-website-exists/).
+
 
 **Thanks**
 

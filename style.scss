@@ -10,6 +10,13 @@
 // Syntax highlighting @import is at the bottom of this file
 
 @font-face {
+font-family: "Verdana";
+font-style: normal;
+font-weight: normal;
+src: local("Verdana");
+}
+
+@font-face {
 font-family: 'Interstate Regular Comp';
 font-style: normal;
 font-weight: normal;
@@ -119,7 +126,7 @@ html {
 body {
 	background: $white;
   /* font: 18px/1.4 'Interstate Regular Comp'; --> */
-  font-family: 'Interstate Regular Comp';
+  font-family: "Verdana";
   font-size: 18px/3;
   font-style: normal;
   color: $black;

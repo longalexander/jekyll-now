@@ -16,105 +16,6 @@ font-weight: normal;
 src: local("Verdana");
 }
 
-@font-face {
-font-family: 'Interstate Regular Comp';
-font-style: normal;
-font-weight: normal;
-src: local('Interstate Regular Comp'), url('interstate/interstate-regular-comp-58b641cc0aca1.woff') format('woff');
-}
-
-@font-face {
-font-family: 'Interstate Black Comp';
-font-style: normal;
-font-weight: normal;
-src: local('Interstate Black Comp'), url('interstate-black-comp-58b64117a2ad9.woff') format('woff');
-}
-
-
-@font-face {
-font-family: 'Interstate Black Cond';
-font-style: normal;
-font-weight: normal;
-src: local('Interstate Black Cond'), url('interstate-black-cond-58b642507872b.woff') format('woff');
-}
-
-
-@font-face {
-font-family: 'Interstate Light Cond';
-font-style: normal;
-font-weight: normal;
-src: local('Interstate Light Cond'), url('interstate-light-cond-58b64220b1490.woff') format('woff');
-}
-
-
-@font-face {
-font-family: 'Interstate Regular Comp';
-font-style: normal;
-font-weight: normal;
-src: local('Interstate Regular Comp'), url('interstate-regular-comp-58b641cc0aca1.woff') format('woff');
-}
-
-
-@font-face {
-font-family: 'Interstate UltraBlack Comp';
-font-style: normal;
-font-weight: normal;
-src: local('Interstate UltraBlack Comp'), url('interstate-ultrablack-comp-58b64130a8cbf.woff') format('woff');
-}
-
-
-@font-face {
-font-family: 'Interstate Bold Cond';
-font-style: normal;
-font-weight: normal;
-src: local('Interstate Bold Cond'), url('interstate-bold-cond-58b64162258ca.woff') format('woff');
-}
-
-
-@font-face {
-font-family: 'Interstate ExtraLight Italic';
-font-style: normal;
-font-weight: normal;
-src: local('Interstate ExtraLight Italic'), url('interstate-extralight-italic-58b642045546b.woff') format('woff');
-}
-
-
-@font-face {
-font-family: 'Interstate Light Italic';
-font-style: normal;
-font-weight: normal;
-src: local('Interstate Light Italic'), url('interstate-light-italic-58b64147957e5.woff') format('woff');
-}
-
-
-@font-face {
-font-family: 'Interstate Regular Italic';
-font-style: normal;
-font-weight: normal;
-src: local('Interstate Regular Italic'), url('interstate-regular-italic-58b641ecad88f.woff') format('woff');
-}
-
-
-@font-face {
-font-family: 'Interstate Thin Italic';
-font-style: normal;
-font-weight: normal;
-src: local('Interstate Thin Italic'), url('interstate-thin-italic-58b641b2d5a92.woff') format('woff');
-}
-
-/*@font-face {
-    font-family: 'Proxima Nova';
-    src: url('proxima_nova/Mark Simonson - Proxima Nova Alt Regular-webfont.eot');
-    src: url('proxima_nova/Mark Simonson - Proxima Nova Alt Regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('proxima_nova/Mark Simonson - Proxima Nova Alt Regular-webfont.woff2') format('woff2'),
-         url('proxima_nova/Mark Simonson - Proxima Nova Alt Regular-webfont.woff') format('woff'),
-         url('proxima_nova/Mark Simonson - Proxima Nova Alt Regular-webfont.ttf') format('truetype'),
-         url('proxima_nova/Mark Simonson - Proxima Nova Alt Regular-webfont.svg#proxima_nova_altregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-} */
-
 /**************/
 /* BASE RULES */
 /**************/
@@ -141,7 +42,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Interstate Regular Comp';
+  font-family: "Verdana";
   color: $black;
   font-weight: normal;
 
@@ -310,7 +211,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: 'Interstate Regular Comp';
+  font-family: "Verdana";
   font-weight: normal;
   font-size: 28px;
   letter-spacing: 1px;
@@ -329,7 +230,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: 'Interstate Regular Comp';
+  font-family: "Verdana";
   font-size: 18px;
 
   @include mobile {

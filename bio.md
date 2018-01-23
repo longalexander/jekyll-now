@@ -12,7 +12,6 @@ Time with family and friends makes me happy. I also enjoy regularly reading The 
 
 Please do get in touch - I’ve been told I’m friendly and I’m happy to help :). 
 
-Best, <Enter>
 Alex
 
 [alexanderlong@stanford.com](mailto:alexanderlong@stanford.edu)

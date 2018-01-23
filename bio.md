@@ -16,10 +16,13 @@ Alex
 
 [alexanderlong@stanford.com](mailto:alexanderlong@stanford.edu)
 
-#Long Letters
+**Long Letters**
 
 Long Letters is an online collection of my writing, past projects and bio. 
 
-In Januray 2018 I decided to publicise my work and opinions. For reasons, please click [here](http://www.longletters.com/Reasons-why-this-website-was-created/).
+In Januray 2018 I decided to publicise my work and opinions. For reasons, please click [here](http://www.longletters.com/Reasons-why-this-website-exists/).
 
-I believe that my personal ideas and character are, to a large extent, formed by the people I've grown up around. Any success I receive should be attributed to my mother, father, brother, grandparents, friends, teachers and mentors.
+**Thanks**
+
+I believe that my personal ideas and character are, to some extent, moulded by the people I've grown up around. Any success I receive or have received should be attributed to family, friends, teachers and mentors. I'd like to emphasize thanks for my mother, father, brother and grandparents for the magnitude of sacrifice they have made.
+

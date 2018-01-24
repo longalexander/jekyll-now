@@ -4,7 +4,7 @@ title: Bio
 permalink: /bio/
 ---
 
-I’m a student at [Stanford University]{http://stanford.edu) expected to graduate in June 2019 with a B.S. in [Symbolic Systems](https://symsys.stanford.edu/). I've lived in the United States, the United Kingdom and Malaysia. Most recently, I worked at the [Human Computer Interaction](http://hci.stanford.edu/) lab on campus.
+I’m a student at [Stanford University](http://stanford.edu) expected to graduate in June 2019 with a B.S. in [Symbolic Systems](https://symsys.stanford.edu/). I've lived in the United States, the United Kingdom and Malaysia. Most recently, I worked at the [Human Computer Interaction](http://hci.stanford.edu/) lab on campus.
 
 I love the feeling that clarity brings. I like spending time helping others feel this too. I strive for clear thinking, even though it can be time and enery consuming in the short term.
 

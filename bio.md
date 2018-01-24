@@ -27,7 +27,9 @@ In January 2018 I decided that regularly writing my thoughts down might be a goo
 
 Almost ten years before, I had [read](https://www.cmu.edu/randyslecture/book/) and [watched](https://www.cmu.edu/randyslecture/videos/index.html) The Last Lecture by Randy Pausch. Randy was a father, a husband and a Professor at Carnegie Mellon University. He was diagnosed with terminal cancer in September 2017 and told that he had 3-6 months to live. Just a month later, he presented a lecture called "[Really Achieving Your Childhood Dreams](https://www.cmu.edu/randyslecture/videos/index.html)". This lecture came to be known as 'The Last Lecture' and was also published as a [book](https://www.cmu.edu/randyslecture/book/index.html). 
 
-Randy Pausch only had a month to summarize his thoughts and ideas into The Last Lecture. He included in his lecture what he thought would be most valuable for his children. I've been blessed with more time. For as long as I live, I hope to write clearly about things I think will be valuable for my (future) children. 
+Randy Pausch only had a month to summarize his thoughts and ideas into The Last Lecture. He included in his lecture what he thought would be most valuable for his children. 
+
+I've been blessed with more time. For as long as I live, I hope to write clearly about things I think will be valuable for my (future) children. 
 
 By focusing on the things that I think are valuable enough to explain to my (future) children, I hope to develop a clear understanding of the things that matter most to me.
 

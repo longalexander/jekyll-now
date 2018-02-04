@@ -10,7 +10,7 @@ First, teaching something you've learned can be a form of unconventional learnin
 
 Second, moving to a location with a different culture can be a form of unconventional learning. 
 
-I believe that unconventional learning drives greater growth than any conventional system.
+I believe that unconventional learning is important because drives greater growth than any conventional system.
 
 Conventional learning tends to drive evolutionary, slower mental growth because we are faced with few unknown quantities – the system by which we learn remains fairly constant and we need only understand the new content. Unconventional learning tends to drive revolutionary, faster mental growth because we are faced with greater unknown quantities– we have to learn new content and a new system of learning that content.
 

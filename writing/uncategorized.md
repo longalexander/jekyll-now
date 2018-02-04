@@ -19,4 +19,6 @@ Here's are some notes on solutions:
 
 - Choose understanding friends. Your friends' bedtimes may influence yours. If your bodies work in similar ways, this can be ideal. If they don't, one may need to identify that there is a choice between spending more time with friends and resting. So far, I've found that good friends are understanding of my need to rest and are happy to work around my needs. If I am well rested, I can be a better friend.
 
+*This is a work in progress*
+
 *Written on February 2nd 2018*

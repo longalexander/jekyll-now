@@ -2,12 +2,13 @@
 
 I will always be grateful to my mother and father for their willingness to take risks and provide me with opportunities that strayed from traditional paths.
 
-When I was about nine, I began to attend weekend classes in a small room above a Kumon (math tutoring) centre in Subang Jaya, a suburb in Kuala Lumpur. It was a very odd class and, at the time, there was very little that was ‘traditional’ about it. The ‘Future Problem Solving Program’ was a room of six or seven boys and girls who had yet to hit double digits thinking up solutions to imagined future problems, writing down their thoughts and presenting them to a jury of adults in the USA. There are many different ways to interpret the value of this exercise. In my opinion, this was a fantastic way to encourage children to learn how to organize their thinking.
+When I was about nine, I began to attend weekend classes in a small room above a Kumon (math tutoring) centre in Subang Jaya, a suburb in Kuala Lumpur. It was a very odd class and, at the time, there was very little that was ‘traditional’ about it. The ‘Future Problem Solving Program’ was a room of six or seven boys and girls who had yet to hit double digits thinking up solutions to imagined future problems, writing down their thoughts and presenting them to a jury of adults in the USA.  
 
-Unconventional learning, I think, has occurred when we self-identify a change in the way we organize our thinking. 
+Unconventional learning, I think, has occurred when we self-identify a change in the way we organize our thinking. This can take many forms. Here are some examples:
 
-Here's are two examples:
-First, for many people, reading or learning something is noticeably different to teaching something. This is immediately obvious to many people when they shift from the role of a student and take on the role of a teacher. It is not uncommon for people to self-identify a change in the way they've understood the material they're teaching. Those same people also often say that they understand the material better than before. This may, in part, be because they were forced to think about the material in a different way. This may, in part, be because they were forced to think about the material from someone else's point of view. These people had to organize their thinking differently. 
+First, teaching something you've learned can be a form of unconventional learning. For many people, reading or learning something is noticeably different to teaching something. This is immediately obvious to many people when they shift from the role of a student and take on the role of a teacher. It is not uncommon for people to self-identify a change in the way they've understood the material they're teaching. Those same people also often say that they understand the material better than before. This may, in part, be because they were forced to think about the material in a different way. This may, in part, be because they were forced to think about the material from someone else's point of view. These people had to organize their thinking differently but learned more than if they had stuck to the same trajectory of learning they'd been on as students.
+
+Second, moving to a location with a different culture can be a form of unconventional learning. 
 
 I believe that unconventional learning drives greater growth than any conventional system.
 

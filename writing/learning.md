@@ -14,6 +14,8 @@ I believe that unconventional learning drives greater growth than any convention
 
 Conventional learning tends to drive evolutionary, slower mental growth because we are faced with few unknown quantities – the system by which we learn remains fairly constant and we need only understand the new content. Unconventional learning tends to drive revolutionary, faster mental growth because we are faced with greater unknown quantities– we have to learn new content and a new system of learning that content.
 
+
+
 In the typical classroom of 2015, methods for learning are largely reverse engineered. Knowledge absorption and application is determined by a finite paper at the end of the year. The content taught by teachers is based on how to answer a very limited set of possible questions. Legend has it that one can now nail exams by memorising set essays and reading mark schemes. There is, apparently, a set formula for acing exams.
 
 This is conventional learning. Some learning happens. Parents are happy when the grades come in. It looks good on transcripts to send off to universities.

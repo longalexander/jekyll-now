@@ -1,6 +1,6 @@
 **Old Essays**
 
-**Should economics students be taught how to be rational as part of their core curriculum?**
+**Should economics students be taught how to be rational as part of their core curriculum?**<br>
 *Shortlisted for the Cambridge University Marshall Society Essay Competition 2014*
 
 For a long time man was the voice of reason. Man was ultimately rational. He might have small slips in his reasoning, but ultimately he gave every problem a logical analysis. Well, that was the general opinion of the time anyway.

@@ -1,7 +1,11 @@
 **Learning**
 
-**The panic of settling for confusion**
+**The panic of settling for confusion** 
+
 A piece on the calm that comes with clarity contrasted with the panic and guilt that comes with hacking something together/bullshitting one's way through life.
+
+*Work in progress*
+*Written on Februrary 7th 2018*
 
 **A Tribute to Unconventional Learning**
 

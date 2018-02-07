@@ -1,3 +1,8 @@
+**Learning**
+
+**The panic of settling for confusion**
+A piece on the calm that comes with clarity contrasted with the panic and guilt that comes with hacking something together/bullshitting one's way through life.
+
 **A Tribute to Unconventional Learning**
 
 I will always be grateful to my mother and father for their willingness to take risks and provide me with opportunities that strayed from traditional paths.

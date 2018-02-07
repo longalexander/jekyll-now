@@ -1,6 +1,6 @@
 **Learning**
 
-**The panic of settling for confusion** 
+**The Panic of Settling for Confusion** 
 
 A piece on the calm that comes with clarity contrasted with the panic and guilt that comes with hacking something together/bullshitting one's way through life.
 

@@ -10,7 +10,7 @@ I love the feeling that clarity brings. I like spending time helping others feel
 
 Time with family and friends makes me happy. I also enjoy regularly reading The Daily Mail, struggling through problem sets and code, watching commercials, listening to Blue Planet II, grappling with difficult concepts, writing clearly and learning about the people I meet.
 
-I write about things I'd like my future children to know. Please click [here](http://www.longletters.com) if this interests you.
+I write about wisdom I'd like to share with my future children. Please click [here](http://www.longletters.com) if this interests you.
 
 I’ve been told I’m friendly and I’m happy to help so do get in touch if you'd like :). 
 

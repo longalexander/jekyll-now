@@ -12,7 +12,7 @@ This chapter includes ideas on purpose from people I've had a chance to encounte
 
 Core Insight: A principle is a divider - it is an idea that helps people divide the world into right and wrong.
 
-Context: Someone might ask you what your mission statement or goal is. For example, you might say "I believe people need food to survive". For some, this is less actionable or empowering than "People need food to be accessible whenever they get hungry." 
+Context: Someone might ask you what your personal mission statement or goal is. 
 
 Below are some additional examples.
 

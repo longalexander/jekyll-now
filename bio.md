@@ -8,7 +8,7 @@ I’m a student at [Stanford University](http://stanford.edu) expected to gradua
 
 I love the feeling that clarity brings. I like spending time helping others feel this too. Striving for clear thinking is central to who I am. It can be time and energy consuming in the short term, but I am placing bets on the long term.
 
-Time with family and friends makes me happy. I also enjoy regularly reading The Daily Mail, struggling through problem sets and code, watching commercials, listening to Blue Planet II, grappling with difficult concepts, writing clearly and learning about the people I meet.
+Time with family and friends makes me happy. I also enjoy regularly reading The Daily Mail, struggling through problem sets and code, satiating curiosity about the environments we build, watching commercials, listening to Blue Planet II, grappling with difficult concepts, writing clearly and learning about the people I meet.
 
 I write about wisdom I'd like to share with my future children. Please click [here](http://www.longletters.com) if this interests you.
 

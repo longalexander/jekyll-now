@@ -5,9 +5,9 @@
 It is a question that, when given to two people who have grown up in similar cultures, can really paralyze one person and hardly seem to bother the other.
 
 This chapter includes ideas on purpose from people I've had a chance to encounter through books, interviews, video, in-person etc. 
-.
-.
-.
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 ***A principle divides the world into right and wrong***
 

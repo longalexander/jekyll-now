@@ -27,13 +27,13 @@ Directly Actionable Insight (Principle)  e.g. Creators need an immediate connect
 
 Another example.
 
-Case Study: Larry Tesler
+Case Study: Larry Tesler, famous for many contributions to Computer Science including "cut/copy/paste" and modeless text editors.
 
-Directional Thought e.g. I want to make software simpler
+Directional Thought e.g. "I want to make software simpler."
 
 vs 
 
-Directly Actionable Insight (Principle) e.g. No modes (if person is working in different modes then that is wrong and has to change. 
+Directly Actionable Insight (Principle) e.g. "No modes" (if a person is working in different modes then that is wrong and I will fix that). 
 
 -------------------------
 

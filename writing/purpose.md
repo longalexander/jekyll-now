@@ -1,11 +1,10 @@
 **Purpose**
 
-"What is my purpose in life?" is a question that some people ask. As far as I can tell, it is common among people who do not endure a daily struggle to survive (eat/seek shelter etc). In my limited but privilieged experience at elite schools and universities, I have encountered many people with this question. 
+"What is my purpose in life?" is a question that some people ask. As far as I can tell at this early stage of my life, it seems common among people who do not endure a daily struggle to survive (eat/seek shelter etc). In my limited but privilieged experience at elite schools and universities, I have encountered many people with this question. 
 
-It is a question that, when given to two people who have grown up in similar cultures, can really paralyze one person and hardly seem to bother the other.
+It is a question that can really paralyze one person and hardly seem to bother another.
 
 This chapter includes ideas on purpose from people I've had a chance to encounter through books, interviews, video, in-person etc. 
-<br/><br/>
 <br/><br/>
 <br/><br/>
 

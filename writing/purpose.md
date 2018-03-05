@@ -8,7 +8,7 @@ This chapter includes ideas on purpose from people I've had a chance to encounte
 <br/><br/>
 <br/><br/>
 
-***A principle divides the world into right and wrong***
+***Living life by a principle that divides the world into right and wrong***
 
 Core Insight: A principle is a divider - it is an idea that helps people divide the world into right and wrong.
 

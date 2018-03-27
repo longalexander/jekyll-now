@@ -36,7 +36,6 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helvetica;
   color: $black;
   font-weight: normal;
 
@@ -59,19 +58,23 @@ h1 {
 }
 
 h2 {
+  font-family: $helvetica;
   font-size: 20px;
 }
 
 h3 {
+  font-family: $helvetica;	
   font-size: 18px;
 }
 
 h4 {
+  font-family: $helvetica;	
   font-size: 16px;
   color: $gray;
 }
 
 h5 {
+  font-family: $helvetica;	
   font-size: 14px;
   color: $gray;
 }

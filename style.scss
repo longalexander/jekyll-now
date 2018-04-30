@@ -87,13 +87,27 @@ p {
   margin: 15px 0;
 }
 
+//test
+a:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0%;
+  border-bottom: 2px solid #BF5802;
+  transition: 0.4s;
+}
+
 a {
   color: #BF5802;
   text-decoration: none;
-	cursor: pointer;
-  &:hover, &:active {
+  position: relative;
+  cursor: pointer;
+  /*&:hover, &:active*/a:hover:after {
     /*color: $blue;*/
-    text-decoration: underline solid;  
+    /*text-decoration: none;  
+    position: relative;*/
+    width: 100%;
   }
 }
 

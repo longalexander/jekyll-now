@@ -87,6 +87,18 @@ p {
   margin: 15px 0;
 }
 
+a {
+  color: #BF5802;
+  text-decoration: none;
+  position: relative;
+  cursor: pointer;
+  /*&:hover, &:active{
+    /*color: $blue;*/
+    /*text-decoration: none;  
+    position: relative;
+  }*/
+}
+
 //test
 a:after {
   content: '';
@@ -98,17 +110,8 @@ a:after {
   transition: 0.4s;
 }
 
-a {
-  color: #BF5802;
-  text-decoration: none;
-  position: relative;
-  cursor: pointer;
-  /*&:hover, &:active*/a:hover:after {
-    /*color: $blue;*/
-    /*text-decoration: none;  
-    position: relative;*/
-    width: 100%;
-  }
+a:hover:after {
+  width: 100%;
 }
 
 ul, ol {

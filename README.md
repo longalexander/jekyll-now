@@ -1,7 +1,5 @@
 # Long Letters
 
-# TESTING GIT
-
 This is the source code for the website: http://www.longletters.com
 
 Long Letters is the personal website of Alexander Long.
